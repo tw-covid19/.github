@@ -1,5 +1,5 @@
 # TW-Covid19 Public Dashboard
-# 台灣新冠病毒資訊儀表板
+# 臺灣新冠病毒資訊儀表板
 
 <br></br>
 
